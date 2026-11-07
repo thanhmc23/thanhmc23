@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+just an ordinary person
 <!--
 **thanhmc23/thanhmc23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
